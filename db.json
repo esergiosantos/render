@@ -1,16 +1,44 @@
 {
-  "posts":[
+  "produtos": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id": 1,
+      "nome": "",
+      "preco": "",
+      "descricao": "",
+      "imagem": ""
+    },
+    {
+      "id": 2,
+      "nome": "",
+      "preco": "",
+      "descricao": "",
+      "imagem": ""
+    },
+    {
+      "id": 3,
+      "nome": "",
+      "preco": "",
+      "descricao": "",
+      "imagem": ""
+    },
+    {
+      "id": 4,
+      "nome": "",
+      "preco": "",
+      "descricao": "",
+      "imagem": ""
     }
   ],
-  "comments" : [
+  "resgates": [
+   
+  ],
+  "usuarios": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": "1",
+      "login": "admin",
+      "senha": "admin",
+      "nome": "Admin",
+      "email": "contato@arnia.com.br"
     }
   ]
 }
